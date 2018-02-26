@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title> - Articles</title>
-    <description>I love my family, Ae-jin and Chae-eun.</description>
+    <description>Here is homepage of lovely family, Ae-jin and Chae-eun.</description>
     <link>
     http://localhost:4000</link>
     
@@ -16,8 +16,8 @@
         
         <pubDate>Fri, 16 Feb 2018 09:00:00 +0900</pubDate>
         <link>
-        http://localhost:4000/travel-20180216-17</link>
-        <guid isPermaLink="true">http://localhost:4000/travel-20180216-17</guid>
+        http://localhost:4000/travel-20180223-24</link>
+        <guid isPermaLink="true">http://localhost:4000/travel-20180223-24</guid>
       </item>
       
     
@@ -32,6 +32,110 @@
         <link>
         http://localhost:4000/galley-introduction</link>
         <guid isPermaLink="true">http://localhost:4000/galley-introduction</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>롯데타워 아쿠아리움 !</title>
+        
+          <description>&lt;p&gt;&lt;strong&gt;롯데타워 아쿠아리움 방문 !&lt;/strong&gt;&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Fri, 26 Jan 2018 09:00:00 +0900</pubDate>
+        <link>
+        http://localhost:4000/travel-20180126</link>
+        <guid isPermaLink="true">http://localhost:4000/travel-20180126</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>전주 여행기 !</title>
+        
+          <description>&lt;p&gt;&lt;strong&gt;전주 한옥마을 여행기 !&lt;/strong&gt;&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Wed, 10 Feb 2016 09:00:00 +0900</pubDate>
+        <link>
+        http://localhost:4000/travel-20160210-11</link>
+        <guid isPermaLink="true">http://localhost:4000/travel-20160210-11</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>제주도 여행기 !</title>
+        
+          <description>&lt;p&gt;&lt;strong&gt;제주도 여행기 !&lt;/strong&gt;&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Wed, 05 Aug 2015 09:00:00 +0900</pubDate>
+        <link>
+        http://localhost:4000/travel-20150805-08</link>
+        <guid isPermaLink="true">http://localhost:4000/travel-20150805-08</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>베어트리파크 !</title>
+        
+          <description>&lt;p&gt;** 베어트리파크!**&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sun, 10 May 2015 09:00:00 +0900</pubDate>
+        <link>
+        http://localhost:4000/travel-20150510</link>
+        <guid isPermaLink="true">http://localhost:4000/travel-20150510</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>벚꽃축제 잠실 !</title>
+        
+          <description>&lt;p&gt;** 벚꽃축제 잠실!**&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sat, 11 Apr 2015 09:00:00 +0900</pubDate>
+        <link>
+        http://localhost:4000/travel-20150411</link>
+        <guid isPermaLink="true">http://localhost:4000/travel-20150411</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>하와이 4박 6일 !</title>
+        
+          <description>&lt;p&gt;&lt;strong&gt;하와이 4박 6일&lt;/strong&gt;&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Mon, 26 Jan 2015 09:00:00 +0900</pubDate>
+        <link>
+        http://localhost:4000/travel-20150125-31</link>
+        <guid isPermaLink="true">http://localhost:4000/travel-20150125-31</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Diary Page 소개</title>
+        
+          <description>&lt;p&gt;&lt;strong&gt;KJ의 가족을 위한 여행사진 공간&lt;/strong&gt;&lt;/p&gt;
+</description>
+        
+        <pubDate>Tue, 22 Mar 1988 09:00:00 +0900</pubDate>
+        <link>
+        http://localhost:4000/travel-introduction</link>
+        <guid isPermaLink="true">http://localhost:4000/travel-introduction</guid>
       </item>
       
     
