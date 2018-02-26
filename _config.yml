@@ -23,7 +23,7 @@ paginate: 10
 language: 'en-uk'
 # 언어 설정
 
-url: https://kjham.github.io
+url: https://aejinh.github.io
 # Google Search Console에서 사용하는 sitemap.xml 생성시
 # 이 url key값이 존재하지 않으면 sitemap.xml이
 # 정상적으로 생성되지 않는다.
@@ -35,10 +35,10 @@ url: https://kjham.github.io
 baseurl: /
 
 # Website info
-title: SWDEVLAB
+title: KJ's Family
 # 자신의 blog title.
 
-description: Software Developement Laboratory
+description: I love my family, Ae-jin and Chae-eun.
 # blog home에 표시될 blog에 대한 전반적인 설명.
 
 cover: assets/images/blog-cover.jpg
@@ -49,10 +49,10 @@ logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
 # favicon으로 사용할 image
 
-production_url: https://kjham.github.io/
+production_url: https://aejinh.github.io/
 # 최종적으로 blog가 운영될 url
 
-source_url: https://github.com/kjham/githubpage_kjham_source/
+source_url: https://github.com/aejinh/aejinh.github.io_source/
 # blogmaker(jekyll source folder)에 대한 github repository
 
 # Social info
@@ -120,8 +120,8 @@ feed:
 safe: False
 lsi: False
 
-username: kjham
-repo: githubpage_kjham_source
+username: aejinh
+repo: aejinh.github.io_source
 # username : travis-ci와 연동하는 github의 username
 # repo: travis-ci와 연동하는 github의 repository이름
 # https://github.com/<username>/<repository>
@@ -138,8 +138,8 @@ destination: ./output/
 
 relative_source: # ../jasper2/
 
-production_url:  https://kjham.github.io/
-source_url:  https://github.com/kjham/githubpage_kjham_source/
+production_url:  https://aejinh.github.io/
+source_url:  https://github.com/aejinh/aejinh.github.io_source/
 
 # exclude는 Jekyll컴파일 시 destination에 포함될 필요가
 # 없는것들을 명시한다. (node_modules는 포함시키자)
